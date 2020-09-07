@@ -1,6 +1,7 @@
 # CRLTS
 Customer Request Learning Team-Suite, by AOEC 2020
-The version is work in progress but has the fundamental concept 
+The version is work in progress but has the fundamental concept!
+
 Files that are part of the repository:
 (a) This repository includes CRLTS.py a program using Python and Anaconda 
 (b) This repository contains a CRLTS-Project-Summary.pdf file
