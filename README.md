@@ -6,7 +6,8 @@ Files that are part of the repository:
 (a) This repository includes CRLTS.py a program using Python and Anaconda 
 (b) This repository contains a CRLTS-Project-Summary.pdf file
 (c) This repository contains a old_service_request_x.xlsx file that is used to create
-a old_service_request.csv file
+a old_service_request_x.csv file
+
 (d) Though needed the repository does not include the GoogleNews-vectors-negative300.bin due to
 its big size in GB
 
@@ -20,3 +21,4 @@ The source code uses specific libraries to load data, perform computation and di
 (f) matplotlib – for visualizing clusters
 (g) sklearn.cluster – to import DBSCAN for clustering
 (h) sklearn.metrics.pairwise – to import cosine-similarity to find out request description similarity
+
